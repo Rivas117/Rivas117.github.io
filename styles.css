@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    padding-bottom: 4em;
+    min-height: 100vh;
+    background-color: ghostwhite;
+}
+
+.geta {
+    background-color: black;
+}
+
+.nav-link:hover {
+    color: azure;
+}
+
+footer {
+    background-color: black;
+    color: azure;
+    padding: 1rem 0;
+    position: absolute;
+    bottom: 0;
+    min-width: 100%;
+}
+
+a:hover {
+    color: azure;
+}
